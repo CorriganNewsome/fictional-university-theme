@@ -1,10 +1,10 @@
 <?php
 
-function myFirstFunction() {
-    echo "<p>Hello this is my first function. </p>";
+$names = array("Corrigan", "Jane", "John");
+$count = 0;
+while ($count < count($names)) {
+    echo "<li>Hi, my name is $names[$count] </li>";
+    $count++;
 }
-
-myFirstFunction();
-myFirstFunction();
-myFirstFunction();
 ?>
+
