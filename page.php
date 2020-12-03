@@ -7,7 +7,7 @@ while (have_posts()) {
     ?>
     <h1>This is a page not a post</h1>
 <h2><?php the_title();?></a></h2>
-<?php the_content(); ?>
+<?php the_content();?>
 <hr>
 
     <?php
