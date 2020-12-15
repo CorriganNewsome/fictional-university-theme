@@ -27,10 +27,10 @@
     </div>
     <div class="event-summary">
       <a class="event-summary__date t-center" href="#">
-        <span class="event-summary__month">Apr</span>
+    <span class="event-summary__month">Apr</span>
         <span class="event-summary__day">02</span>
       </a>
-      <div class="event-summary__content">
+        <div class="event-summary__content">
         <h5 class="event-summary__title headline headline--tiny"><a href="#">Quad Picnic Party</a></h5>
         <p>Live music, a taco truck and more can found in our third annual quad picnic day. <a href="#" class="nu gray">Learn more</a></p>
       </div>
