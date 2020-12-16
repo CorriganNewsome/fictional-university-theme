@@ -1,6 +1,6 @@
-<?php get_header();?>
+  <?php get_header();?>
 
-<div class="page-banner">
+  <div class="page-banner">
 <div class="page-banner__bg-image" style="background-image: url(<?php echo get_theme_file_uri("images/library-hero.jpg") ?>);"></div>
 <div class="page-banner__content container t-center c-white">
   <h1 class="headline headline--large">Welcome!</h1>
@@ -10,16 +10,18 @@
 </div>
 </div>
 
-<div class="full-width-split group">
-<div class="full-width-split__one">
+
+
+  <div class="full-width-split group">
+  <div class="full-width-split__one">
   <div class="full-width-split__inner">
     <h2 class="headline headline--small-plus t-center">Upcoming Events</h2>
 
-    <div class="event-summary">
+      <div class="event-summary">
       <a class="event-summary__date t-center" href="#">
         <span class="event-summary__month">Mar</span>
         <span class="event-summary__day">25</span>
-      </a>
+        </a>
       <div class="event-summary__content">
         <h5 class="event-summary__title headline headline--tiny"><a href="#">Poetry in the 100</a></h5>
         <p>Bring poems you&rsquo;ve wrote to the 100 building this Tuesday for an open mic and snacks. <a href="#" class="nu gray">Learn more</a></p>
